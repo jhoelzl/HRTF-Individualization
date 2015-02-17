@@ -1,0 +1,74 @@
+<hrtf_dbs>
+   <db>
+      <id>iem</id>
+      <name>IEM</name>
+      <department>Institute of Electronic Music and Acoustics</department>
+      <enabled>1</enabled>
+      <fs>44100</fs>
+      <anthro_data>0</anthro_data>
+      <notes>only Azimuth Data</notes>
+      <db_path>../../db/IEM/</db_path>
+      <exp_enable>0</exp_enable>
+      <exp_sub>10 30</exp_sub>
+   </db>
+    <db>
+      <id>ircam</id>
+      <name>IRCAM</name>
+      <department>Institut de Recherche et Coordination Acoustique/Musique</department>
+      <enabled>1</enabled>
+      <fs>44100</fs>
+      <anthro_data>1</anthro_data>
+      <notes></notes>
+      <db_path>../../db/IRCAM/</db_path>
+      <exp_enable>1</exp_enable>
+      <exp_sub>10 30 49</exp_sub>
+   </db>    
+    <db>
+      <id>ari</id>
+      <name>ARI</name>
+      <department>Acoustics Research Institute</department>
+      <enabled>1</enabled>
+      <fs>48000</fs>
+      <anthro_data>1</anthro_data>
+      <notes></notes>
+      <db_path>../../db/ARI/</db_path>
+      <exp_enable>1</exp_enable>
+      <exp_sub>10 30 62 83</exp_sub>
+   </db>
+     <db>
+      <id>cipic</id>
+      <name>CIPIC</name>
+      <department>University of California at Davis</department>
+      <enabled>1</enabled>
+      <fs>44100</fs>
+      <anthro_data>1</anthro_data>
+      <notes></notes>
+      <db_path>../../db/CIPIC/standard_hrir_database/</db_path>
+      <exp_enable>1</exp_enable>
+      <exp_sub>10 30 45</exp_sub>
+   </db>
+       <db>
+      <id>kemar</id>
+      <name>KEMAR</name>
+      <department>MIT Media Laboratory</department>
+      <enabled>1</enabled>
+      <fs>44100</fs>
+      <anthro_data>1</anthro_data>
+      <notes>only 1 person</notes>
+      <db_path>../../db/KEMAR/</db_path>
+      <exp_enable>0</exp_enable>
+      <exp_sub></exp_sub>
+   </db>
+    <db>
+      <id>test</id>
+      <name>TEST</name>
+      <department></department>
+      <enabled>0</enabled>
+      <fs>44100</fs>
+      <anthro_data>1</anthro_data>
+      <notes>only for testing status</notes>
+      <db_path>../../db/test/</db_path>
+      <exp_enable>0</exp_enable>
+      <exp_sub></exp_sub>
+   </db>
+</hrtf_dbs>
