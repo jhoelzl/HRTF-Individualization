@@ -23,9 +23,9 @@ Requirements
 --------------
 This tool consists of a set of matlab functions and GUIs to provide an customization process of HRTFs using three open access HRTF databases:
 
-* ARI (Acoustics Research Institute) with 85 subjects and 1550 source positions (https://www.kfs.oeaw.ac.at/index.php?option=com_content&view=article&id=608:ari-hrtf-database&catid=158:resources-items&Itemid=606&lang=en)
-* CIPIC (University of California at Davis) with 45 subjects and 1250 source positions (http://interface.cipic.ucdavis.edu/sound/hrtf.html)
-* IRCAM (Institut de Recherche et Coordination Acoustique/Musique) with 50 subjects and 187 source positions (http://recherche.ircam.fr/equipes/salles/listen/)
+* [ARI](https://www.kfs.oeaw.ac.at/index.php?option=com_content&view=article&id=608:ari-hrtf-database&catid=158:resources-items&Itemid=606&lang=en) (Acoustics Research Institute) with 85 subjects and 1550 source positions 
+* [CIPIC](http://interface.cipic.ucdavis.edu/sound/hrtf.html) (University of California at Davis) with 45 subjects and 1250 source positions 
+* [IRCAM](http://recherche.ircam.fr/equipes/salles/listen/) (Institut de Recherche et Coordination Acoustique/Musique) with 50 subjects and 187 source positions 
 
 Please download these databases and copy the content into the directory ../db.
 
@@ -39,8 +39,10 @@ Please download these databases and copy the content into the directory ../db.
 ## Mathematical Background 
 
 ### Principal Component Analaysis (PCA)
+Principal Component Analysis is a robust statistical method for data representation. The technique projects an original dataset on an orthogonal subspace that is estimated by taking the covariance of the data into account. The technique can be used to unveil relationships between the independent variables in a dataset and in this way reduce a high-dimensional dataset into a more meaningful, low-dimensional space. It has been widely used in computer vision and pattern recognition to find relevant structure in data and neglect redundant information. Usually the input data is pre-processed and aligned prior PCA to increase the performance. The resulting model parameters can be calculated directly from the input data through Singular Value Decomposition (SVD). Through a linear combination of the new basis and their corresponding principal weights, the original dataset can be reconstructed with a controllable accuracy, because the orthogonal principal components are sorted according to their variance describing the original data.
 
 ### Spherical Harmonic Decomposition (SH)
+Spherical Harmonic Decomposition, primary intended for the modeling and approxi- mation of continuous functions on the sphere, has also been applied to model HRTFs. As HRTF measurements occur for positions distributed on a sphere, or spherical sections, such an approach is inherently appropriate. The dataset is projected onto spherical basis functions of a desired order, whose weighted combination can be used for modeling or approximation purposes. In contrast to PCA, where the basis func- tions are computed from the dataset, the spherical harmonic functions are fixed and defined hierarchically.
 
 ##Conclusion
 #### Diploma Thesis
