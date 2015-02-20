@@ -8,7 +8,9 @@ basis results in an HRTF set that yields good localization for a number of
 given directions of sound incidence. Although this is a promising model,
 the extent to which listeners can perform the individualization by hearing
 is debatable. The process requires adjustment for each location and PC
-of interest. In this work, the feasibility of a local and global method is
+of interest. 
+
+<img align="right" src="https://github.com/jhoelzl/HRTF-Individualization/blob/master/images/hrtf_%20adaptation_process.png?raw=true"> In this work, the feasibility of a local and global method is
 numerically evaluated by estimating the accuracy with which a given basis
 component can model HRTFs regarding different kinds of input data. The
 number of required adjustments for a given direction set is then reduced
@@ -29,11 +31,11 @@ This tool consists of a set of matlab functions and GUIs to provide an customiza
 
 Please download these databases and copy the content into the directory ../db.
 
-## Customization Process
-![HRTF Adaptation Processs](https://github.com/jhoelzl/HRTF-Individualization/blob/master/images/hrtf_%20adaptation_process.png?raw=true)
+## HRTF Model
+![HRTF Model GUI](https://raw.githubusercontent.com/jhoelzl/HRTF-Individualization/master/images/hrtf_model_overview.png)
 
 
-### Graphical User Interface
+## Graphical User Interface
 ![HRTF Model GUI](https://github.com/jhoelzl/HRTF-Individualization/blob/master/images/hrtf_model_gui.jpg?raw=true)
 
 ## Mathematical Background 
