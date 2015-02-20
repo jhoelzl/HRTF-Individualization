@@ -40,7 +40,7 @@ Please download these databases and copy the content into the directory ../db.
 
 ### Principal Component Analaysis (PCA)
 
-### Spherical Harmonics Decomposition (SH)
+### Spherical Harmonic Decomposition (SH)
 
 ## Thesis
 * Title: A Global Model for HRTF Individualization by Adjustment of Principal Component Weights
