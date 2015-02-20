@@ -30,11 +30,11 @@ This tool consists of a set of matlab functions and GUIs to provide an customiza
 Please download these databases and copy the content into the directory ../db.
 
 ## Customization Process
-t.b.d
+![HRTF Adaptation Processs](https://github.com/jhoelzl/HRTF-Individualization/blob/master/images/hrtf_%20adaptation_process.png?raw=true)
 
 
 ### Graphical User Interface
-t.b.d
+![HRTF Model GUI](https://github.com/jhoelzl/HRTF-Individualization/blob/master/images/hrtf_model_gui.jpg?raw=true)
 
 ## Mathematical Background 
 
