@@ -58,5 +58,7 @@ Spherical Harmonic Decomposition, primary intended for the modeling and approxi-
 * Author: Josef Hölzl
 * Date: July 2012
 * Institute of Electronic Music and Acoustics
+* 
+[![Analytics](https://ga-beacon.appspot.com/UA-796927-10/jhoelzl/HRTF-Individualization/readme)](https://github.com/igrigorik/ga-beacon)
 
 
