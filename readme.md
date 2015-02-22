@@ -1,5 +1,7 @@
 HRFT Adaptation Tool in Matlab
 =========================
+This tool consists of a set of matlab functions and GUIs to provide an customization process of HRTFs using three open access HRTF databases.
+
 Individual head-related transfer functions (HRTFs) can be used to generate
 virtual sound sources over headphones. According to the model of
 HRTF individualization using Principal Components (PCs), a Principal
@@ -23,7 +25,9 @@ of each technique.
 
 Requirements
 --------------
-This tool consists of a set of matlab functions and GUIs to provide an customization process of HRTFs using three open access HRTF databases:
+1.  Matlab
+
+2. At least one of these open access HRTF databases:
 
 * [ARI](https://www.kfs.oeaw.ac.at/index.php?option=com_content&view=article&id=608:ari-hrtf-database&catid=158:resources-items&Itemid=606&lang=en) (Acoustics Research Institute) with 85 subjects and 1550 source positions 
 * [CIPIC](http://interface.cipic.ucdavis.edu/sound/hrtf.html) (University of California at Davis) with 45 subjects and 1250 source positions 
