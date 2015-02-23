@@ -58,7 +58,7 @@ Spherical Harmonic Decomposition, primary intended for the modeling and approxim
 * Host Institution: Institute of Electronic Music and Acoustics, University of Music and Performing Arts Graz, Graz University of Technology
 
 #### Project Thesis
-* Title: [An initial Investigation into HRTF Adaptation using PCA](https://github.com/jhoelzl/HRTF-Individualization/blob/master/pdf/Josef%20Hölzl%20-%20An%20initial%20Investigation%20into%20HRTF%20Adaptation%20using%20PCA%20.pdf?raw=true)
+* Title: [An initial Investigation into HRTF Adaptation using PCA](https://github.com/jhoelzl/HRTF-Individualization/blob/master/pdf/Josef%20Hölzl%20-%20An%20initial%20Investigation%20into%20HRTF%20Adaptation%20using%20PCA.pdf?raw=true)
 * Author: Josef Hölzl
 * Date: July 2012
 * Institute of Electronic Music and Acoustics
