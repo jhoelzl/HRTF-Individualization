@@ -35,6 +35,8 @@ Requirements
 
 Please download these databases and copy the content into the directory db/.
 
+## Get Started
+t.b.d
 ## HRTF Model
 ![HRTF Model GUI](https://raw.githubusercontent.com/jhoelzl/HRTF-Individualization/master/images/hrtf_model_overview.png)
 
