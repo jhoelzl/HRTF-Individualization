@@ -33,7 +33,7 @@ Requirements
 * [CIPIC](http://interface.cipic.ucdavis.edu/sound/hrtf.html) (University of California at Davis) with 45 subjects and 1250 source positions 
 * [IRCAM](http://recherche.ircam.fr/equipes/salles/listen/) (Institut de Recherche et Coordination Acoustique/Musique) with 50 subjects and 187 source positions 
 
-Please download these databases and copy the content into the directory db/.
+Please download these databases and copy the content into the directory [`db/`](https://github.com/jhoelzl/HRTF-Individualization/tree/master/db).
 
 ## Get Started
 
