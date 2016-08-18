@@ -1,7 +1,7 @@
 
 Matlab Functions for HRTF Analysis and Adjustment
 
-Implementations by Josef Hšlzl and Georgios Marentakis (IEM)
+Implementations by Josef HÃ¶lzl and Georgios Marentakis (IEM)
 
 --------------------------------------------------------------------------------
 IMPORTANT PATHS and FILES
