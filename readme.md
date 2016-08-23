@@ -35,7 +35,7 @@ Requirements
 
 Please download these databases and copy the content into the directory [`db/`](https://github.com/jhoelzl/HRTF-Individualization/tree/master/db).
 
-## Get Started
+## Getting Started
 
 * Clone or download this repository: `git clone https://github.com/jhoelzl/HRTF-Individualization.git`
 * Add at least one of the HRTF databases listed above and extract the contents into `db/database-name/`. Alternatively you can use a custom HRTF database and add the import function in [`model/matlabcode/functions/core/database_import.m`](https://github.com/jhoelzl/HRTF-Individualization/blob/master/model/matlabcode/functions/core/database_import.m).
