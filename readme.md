@@ -59,7 +59,7 @@ Principal Component Analysis is a robust statistical method for data representat
 ### Spherical Harmonic Decomposition (SH)
 Spherical Harmonic Decomposition, primary intended for the modeling and approximation of continuous functions on the sphere, has also been applied to model HRTFs. As HRTF measurements occur for positions distributed on a sphere, or spherical sections, such an approach is inherently appropriate. The dataset is projected onto spherical basis functions of a desired order, whose weighted combination can be used for modeling or approximation purposes. In contrast to PCA, where the basis functions are computed from the dataset, the spherical harmonic functions are fixed and defined hierarchically.
 
-##Conclusion
+## Conclusion
 #### Diploma Thesis
 * Title: [A Global Model for HRTF Individualization by Adjustment of Principal Component Weights](https://github.com/jhoelzl/HRTF-Individualization/blob/master/pdf/Josef%20Hölzl%20-%20A%20Global%20Model%20for%20HRTF%20Individualization%20by%20Adjustment%20of%20Principal%20Component%20Weights.pdf?raw=true) 
 * Author: Josef Hölzl
