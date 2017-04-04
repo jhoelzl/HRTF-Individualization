@@ -42,7 +42,7 @@ Please download these databases and copy the content into the directory [`db/`](
 * Adjust your active HRTF databases in [`model/matlabcode/config.xml`](https://github.com/jhoelzl/HRTF-Individualization/blob/master/model/matlabcode/config.xml)
 * In Matlab add `model/matlabcode` to the search path (use `addpath` or go through menu settings)
 * Go to Matlab code directory: `cd model/matlabcode`
-* Run [`gui_model.m`](https://github.com/jhoelzl/HRTF-Individualization/blob/master/model/matlabcode/gui/model/gui_model.m) in Matlab. A graphical user interface like in the screenshot below should appear.
+* Run [`gui_model`](https://github.com/jhoelzl/HRTF-Individualization/blob/master/model/matlabcode/gui/model/gui_model.m) in Matlab. A graphical user interface like in the screenshot below should appear.
 
 ## HRTF Model
 ![HRTF Model GUI](https://raw.githubusercontent.com/jhoelzl/HRTF-Individualization/master/images/hrtf_model_overview.png)
