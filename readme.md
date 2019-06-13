@@ -1,4 +1,4 @@
-HRFT Adaptation Tool in Matlab
+HRTF Adaptation Tool in Matlab
 =========================
 This tool consists of a set of matlab functions and GUIs to provide an customization process of HRTFs using three open access HRTF databases.
 
