@@ -1,1 +1,1 @@
-Insert content from http://interface.cipic.ucdavis.edu/data/CIPIC_hrtf_database.zip
+Insert content from https://ucdavis.app.box.com/s/wrxylwv65q4ll69xri89pduhd4w4coqr
