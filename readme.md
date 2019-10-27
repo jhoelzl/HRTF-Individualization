@@ -30,7 +30,7 @@ Requirements
 2. At least one of these open access HRTF databases:
 
 * [ARI](https://www.kfs.oeaw.ac.at/index.php?option=com_content&view=article&id=608:ari-hrtf-database&catid=158:resources-items&Itemid=606&lang=en) (Acoustics Research Institute) with 85 subjects and 1550 source positions 
-* [CIPIC](http://interface.cipic.ucdavis.edu/sound/hrtf.html) (University of California at Davis) with 45 subjects and 1250 source positions 
+* [CIPIC](https://www.ece.ucdavis.edu/cipic/spatial-sound/hrtf-data/) (University of California at Davis) with 45 subjects and 1250 source positions 
 * [IRCAM](http://recherche.ircam.fr/equipes/salles/listen/) (Institut de Recherche et Coordination Acoustique/Musique) with 50 subjects and 187 source positions 
 
 Please download these databases and copy the content into the directory [`db/`](https://github.com/jhoelzl/HRTF-Individualization/tree/master/db).
