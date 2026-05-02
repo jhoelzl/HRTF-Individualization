@@ -61,13 +61,13 @@ Spherical Harmonic Decomposition, primary intended for the modeling and approxim
 
 ## Conclusion
 #### Diploma Thesis
-* Title: [A Global Model for HRTF Individualization by Adjustment of Principal Component Weights](https://github.com/jhoelzl/HRTF-Individualization/blob/master/pdf/Josef%20Hölzl%20-%20A%20Global%20Model%20for%20HRTF%20Individualization%20by%20Adjustment%20of%20Principal%20Component%20Weights.pdf?raw=true) 
+* Title: [A Global Model for HRTF Individualization by Adjustment of Principal Component Weights](https://github.com/jhoelzl/HRTF-Individualization/blob/master/pdf/Josef%20H%C3%B6lzl%20-%20A%20Global%20Model%20for%20HRTF%20Individualization%20by%20Adjustment%20of%20Principal%20Component%20Weights.pdf) 
 * Author: Josef Hölzl
 * Date: March 2014
 * Host Institution: Institute of Electronic Music and Acoustics, University of Music and Performing Arts Graz, Graz University of Technology
 
 #### Project Thesis
-* Title: [An initial Investigation into HRTF Adaptation using PCA](https://github.com/jhoelzl/HRTF-Individualization/blob/master/pdf/Josef%20Hölzl%20-%20An%20initial%20Investigation%20into%20HRTF%20Adaptation%20using%20PCA.pdf?raw=true)
+* Title: [An initial Investigation into HRTF Adaptation using PCA](https://github.com/jhoelzl/HRTF-Individualization/blob/master/pdf/Josef%20H%C3%B6lzl%20-%20An%20initial%20Investigation%20into%20HRTF%20Adaptation%20using%20PCA.pdf)
 * Author: Josef Hölzl
 * Date: July 2012
 * Institute of Electronic Music and Acoustics, Graz, Austria
